@@ -1,0 +1,134 @@
+
+        p {
+            font-family: arial;
+            margin-top:0px;
+        }
+        .video-name{
+           
+            font-size: 25px;
+            font-weight: bold;
+            line-height: 30px;
+            width: 500px;
+            margin-bottom: 10px;
+        }
+        .video-view
+        {
+            font-family: arial;
+            color: rgb(96, 96,96);
+            font-size: 18px;
+            margin-top: 0;
+            margin-bottom: 0;
+              
+        }
+        .author-name
+        {
+            margin-top: 20px;
+            font-family: arial;
+            font-weight: bold;
+            font-size: 18px;
+        }
+        .video-des
+        {
+            margin-top: 30px;
+            font-family: arial;
+            font-size: 15px;
+            color:black;
+            width: 400px;
+            line-height: 24px;
+            margin-bottom: 50px;
+        }
+        .content-box
+        {
+            margin-top: 130px;
+            background-color: rgba(233, 49, 17, 0.952);
+            padding: 20px;
+            color: white;
+            font-size: 15px;
+
+            
+        }
+        .shop-link
+        {
+            margin-left: 10px;
+        }
+        .shop-link:hover
+        {
+            cursor: pointer;
+            text-decoration: underline;
+        }
+
+
+       
+    
+        .html-css
+        {
+            margin-top: 50px;
+            
+            font-weight: bold;
+        }
+        .beg-pro
+        {
+            color: gray;
+        }
+        .des-crip
+        {
+            width: 400px;
+        }
+        .get-sat
+        {
+            background-color: green;
+            color: white;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            font-family: verdana;
+            cursor: pointer;
+        }
+        .get-sat:hover
+        {
+            
+            opacity: 0.5;
+        }
+        .get-sat:active
+        {
+            background-color: rgb(116, 172, 4);
+        }
+        .learn-more
+        {
+            color: blue;
+            cursor: pointer;
+        }
+        .learn-more:hover
+        {
+            text-decoration:underline;
+        }
+        .learn-more:active
+        {
+           color: rgb(20, 20, 151);
+        }
+     
+        .rup-ee
+        {
+            font-size:25px
+        }
+        .usd
+        {
+            font-family: arial;
+            font-size: 15px;
+            color:gray;
+        }
+        .pro-fit
+        {
+            color: green;
+        }
+        .after-hours
+        {
+            color: gray;
+        }
+        .tran-sition
+        {
+            color: rgb(214, 7, 7);
+        }
+
+
+    
